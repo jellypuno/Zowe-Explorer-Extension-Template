@@ -1,2 +1,3 @@
-# Zowe-Explorer-Extension-Template
-Template for extending Zowe Explorer
+# Extension Template for Zowe Explorer
+
+This repository can be used if you want to extend the capabiliites of Zowe Explorer.
