@@ -8,5 +8,6 @@ export async function setConfiguration () {
 }
 
 export async function getProfileInfo (node: IZoweDatasetTreeNode ) {
-    return node.getProfile();
+    const profile = node.getProfile()
+    console.log(profile);
 }
