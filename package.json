@@ -117,7 +117,7 @@
 	},
 	"dependencies": {
 		"@zowe/cli": "^6.17.2",
-		"@zowe/imperative": "^4.7.3",
+		"@zowe/imperative": "^5.9.0",
 		"@zowe/zowe-explorer-api": "1.17.0"
 	}
 }
